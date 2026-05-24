@@ -32,7 +32,11 @@ SimpleOscillator este un patch de sintetizatoare compatibil cu orice track MIDI.
 8. Apasa butonul "Record" pentru a inregistra track-uri MIDI cu mouse-ul!
 
 ## (Istoric)
-
+(06.04)
+- Ideea proiectului a inceput cu tema "Comms"
+- Am creat o versiune a DigitalTheremin care norma la nota A (La) = 440Hz, prin operatiuni matematice si logice, coordonatele X si Y ale cursorului
+- Problema era ca nu se putea conecta la DAW si nu scotea MIDI ca output
+  
 (25.04) 
 Primul target al acestui proiect a fost sa-l fac functional si compatibil cu un DAW. Pana la finalizarea proiectului, voi adauga:
 - Un patch cu sintetizatoare, care sa poata fi folosite drept output-uri in DAW
@@ -44,13 +48,14 @@ Primul target al acestui proiect a fost sa-l fac functional si compatibil cu un 
 
 (30.04)
 - Am adaugat un GUI rudimentar, mai multe keybind-uri pentru flexibilitate in timpul utilizarii instrumentului, si am rafinat oscilatorul.
-
-(24.05)
 - Implementare GUI
 - Implementare compatibilitate cu tastatura
 - Curatarea si eficientizarea logicii din cod pentru a elimina pauzele in DAW
 - Salvarea parametrilor din patch pentru utilizarea in sesiuni separate
-- 
+  
+(24.05)
+- Adaugare documentatie si creare fork
+  
 ## (Link-uri)
 - https://www.youtube.com/watch?v=PKZfqMb8buY&t=6s
 - https://www.youtube.com/watch?v=QwC7P9LUXU8
