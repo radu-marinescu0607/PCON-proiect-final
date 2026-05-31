@@ -1,4 +1,7 @@
 # Digital Theremin + SimpleOscillator
+<img width="733" height="580" alt="image" src="https://github.com/user-attachments/assets/aaa26769-4d67-4e40-a670-03e14790271c" />
+<img width="263" height="260" alt="image" src="https://github.com/user-attachments/assets/e2f437db-1f9e-4981-b36a-141af1d4f450" />
+
 Digital theremin este un generator note MIDI pe baza pozitiei mouse-ului pe ecran
 ;
 - Canal 1 - note obtinute din pozitia cusrorului pe axa orizontala
@@ -6,7 +9,8 @@ Digital theremin este un generator note MIDI pe baza pozitiei mouse-ului pe ecra
 ;
 Features:
 - Este sincronizat cu tempo-ul setat in DAW
-- Nu este nevoie de mouse pentru a schimba setarile, lasand loc pentru miscarea libera a acestui in timpul utilizarii patch-ului.
+- Sectiune de looper
+- Gamele si modurile se pot schimba prin intermediul tastelor
 ;
 Controls:
 - ` = pornire/oprire
@@ -55,6 +59,12 @@ Primul target al acestui proiect a fost sa-l fac functional si compatibil cu un 
   
 (24.05)
 - Adaugare documentatie si creare fork
+
+(31.05)
+- Adaugare sectiune de ritm pe baza a 8 toggle-uri pentru fiecare canal
+- Ritmul are un loop bazat pe un counter, deci ritmul se repeta la 8 batai
+- Am adaugat comentarii mai detaliate despre sectiunile individuale ale codului
+- Am adaugat un comentariu care explica toti parametrii din Send-uri
   
 ## (Link-uri)
 - https://www.youtube.com/watch?v=PKZfqMb8buY&t=6s
