@@ -35,6 +35,9 @@ SimpleOscillator este un patch de sintetizatoare compatibil cu orice track MIDI.
 7. Apasa ` pentru a porni DigitalTheremin
 8. Apasa butonul "Record" pentru a inregistra track-uri MIDI cu mouse-ul!
 
+<img width="1341" height="1229" alt="image" src="https://github.com/user-attachments/assets/d56d8486-f019-4c36-966a-e71d2c0b60e4" />
+
+
 ## (Istoric)
 (06.04)
 - Ideea proiectului a inceput cu tema "Comms"
