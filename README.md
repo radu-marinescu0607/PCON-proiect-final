@@ -3,15 +3,15 @@
 <img width="263" height="260" alt="image" src="https://github.com/user-attachments/assets/e2f437db-1f9e-4981-b36a-141af1d4f450" />
 
 Digital theremin este un generator note MIDI pe baza pozitiei mouse-ului pe ecran
-;
+
 - Canal 1 - note obtinute din pozitia cusrorului pe axa orizontala
 - Canal 2 - note obtinute din pozitia cursorului pe axa verticala
-;
+
 Features:
 - Este sincronizat cu tempo-ul setat in DAW
 - Sectiune de looper
 - Gamele si modurile se pot schimba prin intermediul tastelor
-;
+
 Controls:
 - ` = pornire/oprire
 - Q, W, E, R, T, Y, A, S, D, F, G, H = alegere root note al gamei (C, C#... A#, B)
