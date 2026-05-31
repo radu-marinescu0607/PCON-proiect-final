@@ -2,6 +2,9 @@
 <img width="733" height="580" alt="image" src="https://github.com/user-attachments/assets/aaa26769-4d67-4e40-a670-03e14790271c" />
 <img width="263" height="260" alt="image" src="https://github.com/user-attachments/assets/e2f437db-1f9e-4981-b36a-141af1d4f450" />
 
+Video Demonstrativ:
+https://www.youtube.com/watch?v=lIgPsLHrWGE
+
 Digital theremin este un generator note MIDI pe baza pozitiei mouse-ului pe ecran
 
 - Canal 1 - note obtinute din pozitia cusrorului pe axa orizontala
